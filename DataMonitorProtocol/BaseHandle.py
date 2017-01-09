@@ -16,6 +16,7 @@ class BaseHandle:
 
 
     def search_master(self,possible_device):
-        
+
+
 
 
